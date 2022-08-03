@@ -1,5 +1,76 @@
-@import url('https://fonts.googleapis.com/css2?family=Asset&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
 
 h1 {
-	font-family: 'Asset', cursive;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* ==== header ==== */
+
+.header {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #C8DCD8;
+	padding: 0.5rem;
+	text-align: left;
+	user-select: none;
+}
+
+.header ul {
+	color: #1F2041;
+}
+
+.header li {
+	display: inline;
+	padding: 0.5rem;
+}
+
+.header li:hover{
+	background-color: #E6BEB4;
+}
+/* ==== banner ==== */
+
+#name {	
+	padding-bottom: 10%;
+	font-weight: 900;
+	font-size: 20vmin;
+	color: whitesmoke;
+	text-shadow:
+    0 0 82px #fff,
+    0 0 150px #fff,
+}
+
+.main-banner {
+	width: 100vw;
+	height: 60vh;
+	background-image: url("images/banner.jpeg");
+	background-size: cover;
+	background-position: center;
+	box-shadow: inset 0 0 0 1000px rgba(100,100,212,.3);
+	user-select: none;
+}
+
+/* ==== content ==== */
+body {
+	text-align: center;
+}
+.wrapper {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.content-area {
+	width: 100%;
+	height: 10%;
+	position: relative;
+	background: #fff;
+}
+.content-area h1 {
+	font-size: 40px;
+	margin: 0;
+	padding-top: 30px;
+	letter-spacing: 4px;
 }
