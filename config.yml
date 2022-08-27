@@ -1,0 +1,37 @@
+baseURL: ""
+languageCode: en-us
+title: 'Collins : )'
+theme: hugo-PaperMod
+
+params:
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: Hi there! I'm Collins 👨🏻‍💻
+    Content: Productivity, Computer science, Mindfulness
+  
+  socialIcons:
+    - name: "twitter"
+      url: "https://twitter.com/CollinsSLee"
+    - name: "substack"
+      url: "https://collinslee.substack.com/p/coming-soon?utm_source=substack%2C%2Fprofile%2F101431922-collinslee&utm_medium=web%2Creader2&utm_campaign=substack_profile&showWelcome=true"
+    - name: "github"
+      url: "https://github.com/collins-self/personal-site"
+
+  ShowShareButtons: true
+  ShowReadingTime: true
+    
+menu: 
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
