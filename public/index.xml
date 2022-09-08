@@ -5,18 +5,7 @@
     <link>/</link>
     <description>Recent content on Collins : )</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 13 Aug 2022 08:55:24 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>/posts/test/</link>
-      <pubDate>Sat, 13 Aug 2022 08:55:24 -0400</pubDate>
-      
-      <guid>/posts/test/</guid>
-      <description>This is a new post its really just a big test
-To add a cover photo, in frontmatter add: cover: image: img/img.jpg alt: &#39;alt&#39; caption: &#39;caption&#39; To add tags and categories, in frontmatter add: ``` tags: [&amp;ldquo;ona, dos, tre&amp;rdquo;] categories: [&amp;ldquo;one, to, tres&amp;rdquo;]</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
