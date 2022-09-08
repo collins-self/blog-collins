@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Collins : )</title>
-    <link>/</link>
-    <description>Recent content on Collins : )</description>
+    <title>Posts on Collins : )</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Collins : )</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Aug 2022 08:55:24 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Aug 2022 08:55:24 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>/posts/test/</link>
@@ -16,7 +16,6 @@
       <description>This is a new post its really just a big test
 To add a cover photo, in frontmatter add: cover: image: img/img.jpg alt: &#39;alt&#39; caption: &#39;caption&#39; To add tags and categories, in frontmatter add: ``` tags: [&amp;ldquo;ona, dos, tre&amp;rdquo;] categories: [&amp;ldquo;one, to, tres&amp;rdquo;]</description>
     </item>
-    
     
   </channel>
 </rss>
