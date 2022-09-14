@@ -16,15 +16,5 @@
       <description>Humanity in the Metaverse An innovative new technology is on the rise. It promises bright futures for developers, artists, writers— all aspiring creators. A decentralized, open-source wonderland. It’s called The Internet; an innovation to connectedness rivaled only by the laying of the transcontinental railroad. At least, that’s what was promised. Not too soon after its inception, it transformed from a human platform, to a data extraction platform. Corporations needed increasingly more specific user data to advertise more effectively.</description>
     </item>
     
-    <item>
-      <title>Test</title>
-      <link>/posts/test/</link>
-      <pubDate>Sat, 13 Aug 2022 08:55:24 -0400</pubDate>
-      
-      <guid>/posts/test/</guid>
-      <description>This is a new post its really just a big test
-To add a cover photo, in frontmatter add: cover: image: img/img.jpg alt: &#39;alt&#39; caption: &#39;caption&#39; To add tags and categories, in frontmatter add: ``` tags: [&amp;ldquo;ona, dos, tre&amp;rdquo;] categories: [&amp;ldquo;one, to, tres&amp;rdquo;]</description>
-    </item>
-    
   </channel>
 </rss>
