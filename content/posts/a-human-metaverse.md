@@ -1,7 +1,7 @@
 ---
 title: "A Human Metaverse"
 date: 2022-09-13T21:40:07-04:00
-draft: false
+draft: true
 ---
 Humanity in the Metaverse
 	An innovative new technology is on the rise. It promises bright futures for developers, artists, writers— all aspiring creators. A decentralized, open-source wonderland. It’s called The Internet; an innovation to connectedness rivaled only by the laying of the transcontinental railroad. At least, that’s what was promised. Not too soon after its inception, it transformed from a human platform, to a data extraction platform. Corporations needed increasingly more specific user data to advertise more effectively. Once they could collect data effectively, the only limitation to their data mining was the amount of time people spent online. Whole fields of academic study are now devoted to the psychological tricks to keep your eyes, attention, and wallet locked into the net. Our current social media landscape is designed to disrupt any and all natural rhythms that keep our moods inhibited, making us angry or self-conscious, and more willing to stay locked in. That brings us to the metaverse. The promise of a decentralized, creative platform is once again at our fingertips. Ensuring that the metaverse stays this way is up to us. A free, open, and safe metaverse is one that prioritizes human-to-human connections, treats itself as a place to visit, not a world to virtually doom-scroll all night, and places checks and balances on itself to ensure one’s data is used only with their consent.  
