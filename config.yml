@@ -1,7 +1,7 @@
-baseURL: "collinsself.com"
+baseURL: ""
 languageCode: en-us
 title: 'Collins : )'
-theme: hugo-PaperMod
+theme: 'hugo-PaperMod'
 
 params:
   defaultTheme: auto

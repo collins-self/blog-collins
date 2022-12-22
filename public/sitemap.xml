@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>collinsself.com/</loc>
+    <loc>/</loc>
     <lastmod>2022-10-25T14:44:22-04:00</lastmod>
   </url><url>
-    <loc>collinsself.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-10-25T14:44:22-04:00</lastmod>
   </url><url>
-    <loc>collinsself.com/posts/setting-up-a-website/</loc>
+    <loc>/posts/setting-up-a-website/</loc>
     <lastmod>2022-10-25T14:44:22-04:00</lastmod>
   </url><url>
-    <loc>collinsself.com/archives/</loc>
+    <loc>/posts/a-human-metaverse/</loc>
+    <lastmod>2022-09-13T21:40:07-04:00</lastmod>
   </url><url>
-    <loc>collinsself.com/categories/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>collinsself.com/tags/</loc>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

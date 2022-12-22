@@ -2,19 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Collins : )</title>
-    <link>collinsself.com/</link>
+    <link>/</link>
     <description>Recent content on Collins : )</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Oct 2022 14:44:22 -0400</lastBuildDate><atom:link href="collinsself.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 14:44:22 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up a Website</title>
-      <link>collinsself.com/posts/setting-up-a-website/</link>
+      <link>/posts/setting-up-a-website/</link>
       <pubDate>Tue, 25 Oct 2022 14:44:22 -0400</pubDate>
       
-      <guid>collinsself.com/posts/setting-up-a-website/</guid>
-      <description>Setting Up a Website Taking an idea in your head and forming that into a website that can be viewed anywhere and everywhere is one of the most satisfying steps to carving out your corner of the internet. And of course, having a platform that you can point back to as your own, unfiltered, curated forum is unparalleled by any other online medium.
-Going about getting a website up has never been easier.</description>
+      <guid>/posts/setting-up-a-website/</guid>
+      <description>Taking an idea in your head and forming that into a website that can be viewed anywhere and everywhere is one of the most satisfying steps to carving out your corner of the internet. And of course, having a platform that you can point back to as your own, unfiltered, curated forum is unparalleled by any other online medium.
+Going about getting a website up has never been easier. There are plenty of resources online that teach the basics, HTML and CSS.</description>
+    </item>
+    
+    <item>
+      <title>A Human Metaverse</title>
+      <link>/posts/a-human-metaverse/</link>
+      <pubDate>Tue, 13 Sep 2022 21:40:07 -0400</pubDate>
+      
+      <guid>/posts/a-human-metaverse/</guid>
+      <description>Humanity in the Metaverse An innovative new technology is on the rise. It promises bright futures for developers, artists, writers— all aspiring creators. A decentralized, open-source wonderland. It’s called The Internet; an innovation to connectedness rivaled only by the laying of the transcontinental railroad. At least, that’s what was promised. Not too soon after its inception, it transformed from a human platform, to a data extraction platform. Corporations needed increasingly more specific user data to advertise more effectively.</description>
     </item>
     
     
