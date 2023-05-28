@@ -1,4 +1,4 @@
-# blog-collins
+# blog-collins - depricated
 Hi! I'm Collins Self.
 This is my first webpage that will serve a function :)
 
